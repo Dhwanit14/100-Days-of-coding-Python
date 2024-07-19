@@ -20,6 +20,7 @@
 
 # greet_with("Dhwanit","Dholka")
 
+#function that can take keyword arguments
 def greet_with(name,location):
     print(f"Hello {name}, How are you ?")
     print(f"How is the weather today in {location} ?")
